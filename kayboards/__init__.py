@@ -1,0 +1,2 @@
+from kayboards.client_kayboards import kb_client,kb_crypto,inline_ex,kb_select_week,kb_geo,kb_replace,kb_replaceLes
+from kayboards.admin_kayboards import admin_kb
